@@ -5,3 +5,9 @@ flask
 torch
 torchvision
 
+streamlit
+opencv-python
+mediapipe
+numpy
+pillow
+matplotlib
