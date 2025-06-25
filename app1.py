@@ -15,8 +15,8 @@ st.title("🎯 Real-Time Emotion Detection with 3D Face View")
 st.markdown("Click **Start Camera + Detect** to track facial emotions, view 3D face mesh, and enable adaptive training.")
 
 # Input fields
-model_path = st.text_input("Model Path", r"D:\BINs\friends\FER\models\fer_model.pth")
-data_dir = st.text_input("Data Save Directory", r"D:\BINs\friends\FER\data\pictures")
+model_path = st.text_input("Model Path", r"models\fer_model.pth")
+data_dir = st.text_input("Data Save Directory", r"data\pictures")
 device_option = st.radio("Select Device", ["GPU (0)", "CPU (-1)"])
 device = torch.device("cuda:0" if "GPU" in device_option and torch.cuda.is_available() else "cpu")
 adapt_training = st.checkbox("Enable Adaptive Training", value=False)

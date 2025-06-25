@@ -36,7 +36,7 @@ with st.sidebar:
     st.header("⚙️ Configuration")
     model_path = st.text_input(
         "Model Path",
-        value=r"D:\BINs\friends\FER\models\fer_model.pth",
+        value=r"models\fer_model.pth",
         help="Path to PyTorch model (.pth)"
     )
     save_dir = st.text_input(

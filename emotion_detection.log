@@ -1436,3 +1436,49 @@
 2025-06-25 13:04:52,069 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
 2025-06-25 13:04:52,088 - INFO - MediaPipe Face Mesh initialized
 2025-06-25 13:04:52,091 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-25 13:18:25,398 - INFO - Using device: cpu
+2025-06-25 13:18:25,583 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-25 13:18:25,611 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:18:25,615 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-25 13:18:37,537 - INFO - Using device: cpu
+2025-06-25 13:18:37,727 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:18:37,751 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:18:37,755 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-25 13:19:52,546 - INFO - Using device: cpu
+2025-06-25 13:19:52,876 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-25 13:19:52,896 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:19:52,899 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-25 13:20:08,005 - INFO - Using device: cpu
+2025-06-25 13:20:08,430 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:20:08,451 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:20:08,458 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-25 13:20:51,463 - INFO - Using device: cpu
+2025-06-25 13:20:51,582 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:20:51,604 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:20:51,606 - INFO - Data directories created at data\pictures
+2025-06-25 13:20:54,729 - INFO - Using device: cpu
+2025-06-25 13:20:54,867 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:20:54,893 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:20:54,896 - INFO - Data directories created at data\pictures
+2025-06-25 13:20:54,898 - INFO - Adaptive training enabled
+2025-06-25 13:20:56,690 - INFO - Using device: cpu
+2025-06-25 13:20:56,837 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:20:56,861 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:20:56,864 - INFO - Data directories created at data\pictures
+2025-06-25 13:20:56,865 - INFO - Adaptive training enabled
+2025-06-25 13:21:00,217 - INFO - Camera initialized
+2025-06-25 13:21:00,262 - INFO - Face cascade classifier loaded
+2025-06-25 13:21:07,331 - INFO - Frame saved: data\pictures\Engaged\20250625_132107.jpg
+2025-06-25 13:21:13,116 - INFO - Frame saved: data\pictures\Engaged\20250625_132113.jpg
+2025-06-25 13:21:17,636 - INFO - Frame saved: data\pictures\Engaged\20250625_132117.jpg
+2025-06-25 13:21:17,638 - INFO - Captured 3 frames, stopping camera
+2025-06-25 13:21:18,413 - INFO - Camera released
+2025-06-25 13:21:40,949 - INFO - Using device: cpu
+2025-06-25 13:21:41,103 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:21:41,126 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:21:41,129 - INFO - Data directories created at data\pictures
+2025-06-25 13:21:41,130 - INFO - Adaptive training enabled
+2025-06-25 13:22:13,241 - INFO - Using device: cpu
+2025-06-25 13:22:13,364 - INFO - Model loaded successfully from models\fer_model.pth
+2025-06-25 13:22:13,384 - INFO - MediaPipe Face Mesh initialized
+2025-06-25 13:22:13,388 - INFO - Data directories created at data\pictures

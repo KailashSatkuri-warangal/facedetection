@@ -28,8 +28,8 @@ st.set_page_config(page_title="Real-Time Emotion Detection with 3D View", layout
 # Sidebar for inputs
 with st.sidebar:
     st.header("Configuration")
-    model_path = st.text_input("Model Path", r"D:\BINs\friends\FER\models\fer_model.pth")
-    data_dir = st.text_input("Data Save Directory", r"D:\BINs\friends\FER\data\pictures")
+    model_path = st.text_input("Model Path", r"models\fer_model.pth")
+    data_dir = st.text_input("Data Save Directory", r"data\pictures")
     device_option = st.radio("Select Device", ["GPU (0)", "CPU (-1)"])
     adapt_training = st.checkbox("Enable Adaptive Training", value=False)
     max_frames = st.slider("Max Frames in Adaptive Mode", 2, 3, 3)

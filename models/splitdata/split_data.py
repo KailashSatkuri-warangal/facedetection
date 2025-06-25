@@ -2,8 +2,8 @@ import os
 import shutil
 import random
 
-train_dir = r"D:\BINs\friends\FER\dataset\train"
-val_dir = r"D:\BINs\friends\FER\dataset\val"
+train_dir = r"dataset\train"
+val_dir = r"dataset\val"
 val_split = 0.2  # 20% for validation
 
 # Get list of classes

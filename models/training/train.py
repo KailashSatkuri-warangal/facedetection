@@ -12,10 +12,10 @@ st.set_page_config(page_title="FER Trainer", layout="centered")
 st.title("🧠 FER Model Trainer (GPU/CPU Compatible)")
 
 # Input fields
-train_dir = st.text_input("Training Data Directory", r"D:\BINs\friends\FER\dataset\train")
-val_dir = st.text_input("Validation Data Directory", r"D:\BINs\friends\FER\dataset\val")
-model_path = st.text_input("Model Save Path", r"D:\BINs\friends\FER\models\fer_model.h5")
-log_dir = st.text_input("TensorBoard Log Directory", r"D:\BINs\friends\FER\logs")
+train_dir = st.text_input("Training Data Directory", r"dataset\train")
+val_dir = st.text_input("Validation Data Directory", r"dataset\val")
+model_path = st.text_input("Model Save Path", r"models\fer_model.h5")
+log_dir = st.text_input("TensorBoard Log Directory", r"logs")
 
 device_option = st.radio("Select Device", ["GPU (0)", "CPU (-1)"])
 device = torch.device("cuda:0" if "GPU" in device_option and torch.cuda.is_available() else "cpu")
