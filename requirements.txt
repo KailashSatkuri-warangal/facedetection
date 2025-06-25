@@ -1,0 +1,7 @@
+inference-sdk
+pillow 
+ultralytics 
+flask
+torch
+torchvision
+

@@ -1,0 +1,1399 @@
+2025-06-20 22:50:18,360 - INFO - Using device: cuda:0
+2025-06-20 22:50:18,729 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:50:18,751 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:50:18,755 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:50:24,126 - INFO - Using device: cuda:0
+2025-06-20 22:50:24,375 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:50:24,397 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:50:24,401 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:50:31,102 - INFO - Camera initialized
+2025-06-20 22:50:31,145 - INFO - Face cascade classifier loaded
+2025-06-20 22:50:32,053 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:50:36,236 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:50:36,348 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:50:38,282 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:50:40,774 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:50:42,382 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:50:43,051 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:50:43,182 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:50:43,314 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:50:46,578 - INFO - Using device: cuda:0
+2025-06-20 22:50:47,284 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:50:47,313 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:50:47,319 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:50:55,504 - INFO - Using device: cuda:0
+2025-06-20 22:50:55,939 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:50:55,988 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:50:55,994 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:51:26,732 - INFO - Using device: cuda:0
+2025-06-20 22:51:27,041 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:51:27,062 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:51:27,065 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:51:34,650 - INFO - Using device: cuda:0
+2025-06-20 22:51:34,984 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:51:35,000 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:51:35,003 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:51:40,032 - INFO - Camera initialized
+2025-06-20 22:51:40,064 - INFO - Face cascade classifier loaded
+2025-06-20 22:51:40,858 - INFO - Emotion transition: Frustration -> Boredom
+2025-06-20 22:51:41,521 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:51:43,997 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:51:44,219 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:51:45,355 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:51:45,481 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:51:45,520 - INFO - Using device: cuda:0
+2025-06-20 22:51:46,451 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:51:46,474 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:51:46,478 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:52:18,498 - INFO - Using device: cuda:0
+2025-06-20 22:52:18,787 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:52:18,809 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:52:18,812 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:52:18,816 - INFO - Adaptive training enabled
+2025-06-20 22:52:23,112 - INFO - Using device: cuda:0
+2025-06-20 22:52:23,369 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:52:23,385 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:52:23,388 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:52:23,390 - INFO - Adaptive training enabled
+2025-06-20 22:52:27,478 - INFO - Camera initialized
+2025-06-20 22:52:27,534 - INFO - Face cascade classifier loaded
+2025-06-20 22:52:37,768 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_225237.jpg
+2025-06-20 22:53:08,471 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_225308.jpg
+2025-06-20 22:53:16,769 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_225316.jpg
+2025-06-20 22:53:16,772 - INFO - Captured 3 frames, stopping camera
+2025-06-20 22:53:17,558 - INFO - Camera released
+2025-06-20 22:54:41,752 - INFO - Using device: cuda:0
+2025-06-20 22:54:42,015 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:54:42,044 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:54:42,047 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:54:49,030 - INFO - Using device: cuda:0
+2025-06-20 22:54:49,253 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:54:49,267 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:54:49,270 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:54:56,142 - INFO - Camera initialized
+2025-06-20 22:54:56,176 - INFO - Face cascade classifier loaded
+2025-06-20 22:55:28,637 - INFO - Using device: cuda:0
+2025-06-20 22:55:28,909 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:55:28,929 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:55:28,937 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:55:28,939 - INFO - Adaptive training enabled
+2025-06-20 22:55:31,671 - INFO - Using device: cuda:0
+2025-06-20 22:55:32,029 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:55:32,051 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:55:32,055 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:55:32,057 - INFO - Adaptive training enabled
+2025-06-20 22:55:36,276 - INFO - Camera initialized
+2025-06-20 22:55:36,309 - INFO - Face cascade classifier loaded
+2025-06-20 22:55:42,730 - INFO - Using device: cuda:0
+2025-06-20 22:55:43,016 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:55:43,068 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:55:43,075 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:56:35,701 - INFO - Using device: cuda:0
+2025-06-20 22:56:36,003 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:56:36,032 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:56:36,037 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:56:44,058 - INFO - Using device: cuda:0
+2025-06-20 22:56:44,360 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:56:44,393 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:56:44,397 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:56:49,139 - INFO - Using device: cuda:0
+2025-06-20 22:56:49,513 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:56:49,539 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:56:49,543 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:56:54,886 - INFO - Camera initialized
+2025-06-20 22:56:54,944 - INFO - Face cascade classifier loaded
+2025-06-20 22:57:04,506 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:57:04,718 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:57:05,774 - INFO - Using device: cuda:0
+2025-06-20 22:57:06,579 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:57:06,612 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:57:06,616 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:57:54,174 - INFO - Using device: cuda:0
+2025-06-20 22:57:54,565 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:57:54,592 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:57:54,596 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:57:59,208 - WARNING - From D:\BINs\friends\FER\myenv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-20 22:58:12,979 - INFO - Using device: cuda:0
+2025-06-20 22:58:13,367 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:58:13,383 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:58:13,388 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:58:19,487 - INFO - Camera initialized
+2025-06-20 22:58:19,532 - INFO - Face cascade classifier loaded
+2025-06-20 22:58:25,753 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:58:26,529 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 22:58:30,096 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 22:58:30,910 - INFO - Using device: cuda:0
+2025-06-20 22:58:31,683 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:58:31,726 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:58:31,731 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:58:37,920 - INFO - Using device: cuda:0
+2025-06-20 22:58:38,232 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:58:38,246 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:58:38,249 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:58:38,250 - INFO - Adaptive training enabled
+2025-06-20 22:58:40,262 - INFO - Using device: cuda:0
+2025-06-20 22:58:40,720 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:58:40,736 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:58:40,740 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:58:40,742 - INFO - Adaptive training enabled
+2025-06-20 22:58:45,591 - INFO - Camera initialized
+2025-06-20 22:58:45,630 - INFO - Face cascade classifier loaded
+2025-06-20 22:58:57,358 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_225857.jpg
+2025-06-20 22:59:05,883 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_225905.jpg
+2025-06-20 22:59:15,527 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_225915.jpg
+2025-06-20 22:59:15,532 - INFO - Captured 3 frames, stopping camera
+2025-06-20 22:59:16,288 - INFO - Camera released
+2025-06-20 22:59:31,594 - INFO - Using device: cuda:0
+2025-06-20 22:59:31,850 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:59:31,869 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:59:31,872 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 22:59:31,873 - INFO - Adaptive training enabled
+2025-06-20 22:59:36,399 - INFO - Using device: cuda:0
+2025-06-20 22:59:36,832 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 22:59:36,878 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 22:59:36,900 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:01:13,626 - INFO - Using device: cuda:0
+2025-06-20 23:01:13,927 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:01:13,964 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:01:13,967 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:01:19,408 - INFO - Using device: cuda:0
+2025-06-20 23:01:19,727 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:01:19,742 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:01:19,746 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:01:23,761 - INFO - Camera initialized
+2025-06-20 23:01:23,797 - INFO - Face cascade classifier loaded
+2025-06-20 23:01:24,485 - INFO - Faces detected
+2025-06-20 23:01:25,073 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,079 - INFO - FPS: 0.8, Frames: 0
+2025-06-20 23:01:25,180 - INFO - Faces detected
+2025-06-20 23:01:25,184 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,190 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,196 - INFO - FPS: 4.7, Frames: 0
+2025-06-20 23:01:25,298 - INFO - Faces detected
+2025-06-20 23:01:25,306 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,311 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,319 - INFO - FPS: 5.9, Frames: 0
+2025-06-20 23:01:25,414 - INFO - Faces detected
+2025-06-20 23:01:25,418 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,424 - INFO - FPS: 6.8, Frames: 0
+2025-06-20 23:01:25,525 - INFO - Faces detected
+2025-06-20 23:01:25,529 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,533 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,538 - INFO - FPS: 7.2, Frames: 0
+2025-06-20 23:01:25,615 - INFO - Faces detected
+2025-06-20 23:01:25,620 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,625 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,630 - INFO - FPS: 7.9, Frames: 0
+2025-06-20 23:01:25,721 - INFO - Faces detected
+2025-06-20 23:01:25,724 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,728 - INFO - FPS: 8.2, Frames: 0
+2025-06-20 23:01:25,815 - INFO - Faces detected
+2025-06-20 23:01:25,820 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,825 - INFO - FPS: 8.5, Frames: 0
+2025-06-20 23:01:25,911 - INFO - Faces detected
+2025-06-20 23:01:25,913 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:25,919 - INFO - FPS: 8.8, Frames: 0
+2025-06-20 23:01:26,003 - INFO - Faces detected
+2025-06-20 23:01:26,006 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,012 - INFO - FPS: 9.0, Frames: 0
+2025-06-20 23:01:26,102 - INFO - Faces detected
+2025-06-20 23:01:26,107 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,112 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:26,211 - INFO - Faces detected
+2025-06-20 23:01:26,215 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,220 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:26,320 - INFO - Faces detected
+2025-06-20 23:01:26,326 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,330 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,337 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:26,434 - INFO - Faces detected
+2025-06-20 23:01:26,439 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,442 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,449 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:26,518 - INFO - Faces detected
+2025-06-20 23:01:26,523 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,526 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,531 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:26,641 - INFO - Faces detected
+2025-06-20 23:01:26,645 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,650 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,656 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:26,719 - INFO - Faces detected
+2025-06-20 23:01:26,723 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,726 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,731 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:26,828 - INFO - Faces detected
+2025-06-20 23:01:26,834 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,837 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,842 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:26,949 - INFO - Faces detected
+2025-06-20 23:01:26,954 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,959 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:26,964 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:27,051 - INFO - Faces detected
+2025-06-20 23:01:27,055 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,061 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:27,156 - INFO - Faces detected
+2025-06-20 23:01:27,160 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,164 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:27,245 - INFO - Faces detected
+2025-06-20 23:01:27,249 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,256 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:27,326 - INFO - Faces detected
+2025-06-20 23:01:27,331 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,336 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:27,428 - INFO - Faces detected
+2025-06-20 23:01:27,432 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,438 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:27,521 - INFO - Faces detected
+2025-06-20 23:01:27,525 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,530 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:27,627 - INFO - Faces detected
+2025-06-20 23:01:27,630 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,634 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:27,716 - INFO - Faces detected
+2025-06-20 23:01:27,721 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,726 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:27,816 - INFO - Faces detected
+2025-06-20 23:01:27,820 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,825 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:27,914 - INFO - Faces detected
+2025-06-20 23:01:27,918 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:27,924 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:28,019 - INFO - Faces detected
+2025-06-20 23:01:28,022 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,026 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:28,110 - INFO - Faces detected
+2025-06-20 23:01:28,115 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,118 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:28,200 - INFO - Faces detected
+2025-06-20 23:01:28,205 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,209 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,214 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:28,297 - INFO - Faces detected
+2025-06-20 23:01:28,301 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,304 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,309 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:28,398 - INFO - Faces detected
+2025-06-20 23:01:28,402 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,406 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,410 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:28,504 - INFO - Faces detected
+2025-06-20 23:01:28,508 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,511 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,516 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:28,594 - INFO - Faces detected
+2025-06-20 23:01:28,599 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,602 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,607 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:28,691 - INFO - Faces detected
+2025-06-20 23:01:28,694 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,698 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:28,784 - INFO - Faces detected
+2025-06-20 23:01:28,787 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,791 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:28,863 - INFO - Faces detected
+2025-06-20 23:01:28,866 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,871 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,876 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:28,970 - INFO - Faces detected
+2025-06-20 23:01:28,974 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,977 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:28,981 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:29,063 - INFO - Faces detected
+2025-06-20 23:01:29,068 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,073 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,078 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:29,173 - INFO - Faces detected
+2025-06-20 23:01:29,176 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,182 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:29,269 - INFO - Faces detected
+2025-06-20 23:01:29,272 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,276 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:29,365 - INFO - Faces detected
+2025-06-20 23:01:29,368 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,374 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:29,450 - INFO - Faces detected
+2025-06-20 23:01:29,455 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,460 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:29,534 - INFO - Faces detected
+2025-06-20 23:01:29,538 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,543 - INFO - FPS: 10.9, Frames: 0
+2025-06-20 23:01:29,632 - INFO - Faces detected
+2025-06-20 23:01:29,636 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,643 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:29,736 - INFO - Faces detected
+2025-06-20 23:01:29,740 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,744 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:29,840 - INFO - Faces detected
+2025-06-20 23:01:29,844 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,847 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,851 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:29,935 - INFO - Faces detected
+2025-06-20 23:01:29,939 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:29,945 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:30,030 - INFO - Faces detected
+2025-06-20 23:01:30,034 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,040 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:30,124 - INFO - Faces detected
+2025-06-20 23:01:30,127 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,132 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:30,214 - INFO - Faces detected
+2025-06-20 23:01:30,218 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,222 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:30,309 - INFO - Faces detected
+2025-06-20 23:01:30,311 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,316 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:30,410 - INFO - Faces detected
+2025-06-20 23:01:30,413 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,418 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:30,510 - INFO - Faces detected
+2025-06-20 23:01:30,514 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,518 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:30,595 - INFO - Faces detected
+2025-06-20 23:01:30,598 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,602 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:30,669 - INFO - Faces detected
+2025-06-20 23:01:30,672 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,677 - INFO - FPS: 11.0, Frames: 0
+2025-06-20 23:01:30,763 - INFO - Faces detected
+2025-06-20 23:01:30,765 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,769 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:30,858 - INFO - Faces detected
+2025-06-20 23:01:30,862 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,867 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:30,940 - INFO - Faces detected
+2025-06-20 23:01:30,944 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:30,949 - INFO - FPS: 11.2, Frames: 0
+2025-06-20 23:01:31,050 - INFO - Faces detected
+2025-06-20 23:01:31,053 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,058 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:31,146 - INFO - Faces detected
+2025-06-20 23:01:31,150 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,155 - INFO - FPS: 11.0, Frames: 0
+2025-06-20 23:01:31,289 - INFO - Faces detected
+2025-06-20 23:01:31,293 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,300 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:31,396 - INFO - Faces detected
+2025-06-20 23:01:31,401 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,407 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:31,498 - INFO - Faces detected
+2025-06-20 23:01:31,503 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,507 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:31,612 - INFO - Faces detected
+2025-06-20 23:01:31,615 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,621 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:31,722 - INFO - Faces detected
+2025-06-20 23:01:31,726 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,732 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:31,811 - INFO - Faces detected
+2025-06-20 23:01:31,815 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,819 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:31,902 - INFO - Faces detected
+2025-06-20 23:01:31,907 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:31,912 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:32,000 - INFO - Faces detected
+2025-06-20 23:01:32,007 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,013 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:32,100 - INFO - Faces detected
+2025-06-20 23:01:32,105 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,111 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:32,201 - INFO - Faces detected
+2025-06-20 23:01:32,205 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,211 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:32,277 - INFO - Faces detected
+2025-06-20 23:01:32,281 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,286 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:32,383 - INFO - Faces detected
+2025-06-20 23:01:32,387 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,392 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:32,477 - INFO - Faces detected
+2025-06-20 23:01:32,480 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,484 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:32,576 - INFO - Faces detected
+2025-06-20 23:01:32,580 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,586 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:32,667 - INFO - Faces detected
+2025-06-20 23:01:32,671 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,676 - INFO - FPS: 10.9, Frames: 0
+2025-06-20 23:01:32,774 - INFO - Faces detected
+2025-06-20 23:01:32,778 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,783 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:32,862 - INFO - Faces detected
+2025-06-20 23:01:32,866 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,870 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:32,951 - INFO - Faces detected
+2025-06-20 23:01:32,955 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:32,961 - INFO - FPS: 10.9, Frames: 0
+2025-06-20 23:01:33,057 - INFO - Faces detected
+2025-06-20 23:01:33,060 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,064 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:33,138 - INFO - Faces detected
+2025-06-20 23:01:33,141 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,147 - INFO - FPS: 11.0, Frames: 0
+2025-06-20 23:01:33,242 - INFO - Faces detected
+2025-06-20 23:01:33,244 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,249 - INFO - FPS: 10.6, Frames: 0
+2025-06-20 23:01:33,329 - INFO - Faces detected
+2025-06-20 23:01:33,332 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,336 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:33,415 - INFO - Faces detected
+2025-06-20 23:01:33,418 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,423 - INFO - FPS: 10.9, Frames: 0
+2025-06-20 23:01:33,522 - INFO - Faces detected
+2025-06-20 23:01:33,526 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,532 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:33,599 - INFO - Faces detected
+2025-06-20 23:01:33,603 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,610 - INFO - FPS: 11.0, Frames: 0
+2025-06-20 23:01:33,696 - INFO - Faces detected
+2025-06-20 23:01:33,699 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,703 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:33,787 - INFO - Faces detected
+2025-06-20 23:01:33,790 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,795 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:33,878 - INFO - Faces detected
+2025-06-20 23:01:33,881 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,885 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:33,976 - INFO - Faces detected
+2025-06-20 23:01:33,979 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:33,983 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:34,075 - INFO - Faces detected
+2025-06-20 23:01:34,078 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,083 - INFO - FPS: 10.9, Frames: 0
+2025-06-20 23:01:34,147 - INFO - Faces detected
+2025-06-20 23:01:34,152 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,159 - INFO - FPS: 11.3, Frames: 0
+2025-06-20 23:01:34,243 - INFO - Faces detected
+2025-06-20 23:01:34,247 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,252 - INFO - FPS: 11.2, Frames: 0
+2025-06-20 23:01:34,336 - INFO - Faces detected
+2025-06-20 23:01:34,340 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,344 - INFO - FPS: 11.1, Frames: 0
+2025-06-20 23:01:34,436 - INFO - Faces detected
+2025-06-20 23:01:34,439 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,442 - INFO - FPS: 11.2, Frames: 0
+2025-06-20 23:01:34,543 - INFO - Faces detected
+2025-06-20 23:01:34,546 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,552 - INFO - FPS: 10.9, Frames: 0
+2025-06-20 23:01:34,650 - INFO - Faces detected
+2025-06-20 23:01:34,654 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,658 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:01:34,732 - INFO - Faces detected
+2025-06-20 23:01:34,736 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,741 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:34,831 - INFO - Faces detected
+2025-06-20 23:01:34,834 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,839 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:34,925 - INFO - Faces detected
+2025-06-20 23:01:34,929 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:34,935 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:01:35,018 - INFO - Faces detected
+2025-06-20 23:01:35,027 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:35,603 - INFO - Using device: cuda:0
+2025-06-20 23:01:35,937 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:01:35,991 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:01:36,000 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:01:41,344 - INFO - Using device: cuda:0
+2025-06-20 23:01:41,665 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:01:41,681 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:01:41,687 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:01:41,689 - INFO - Adaptive training enabled
+2025-06-20 23:01:44,052 - INFO - Using device: cuda:0
+2025-06-20 23:01:44,564 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:01:44,591 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:01:44,594 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:01:44,597 - INFO - Adaptive training enabled
+2025-06-20 23:01:49,300 - INFO - Camera initialized
+2025-06-20 23:01:49,335 - INFO - Face cascade classifier loaded
+2025-06-20 23:01:49,965 - INFO - Faces detected
+2025-06-20 23:01:49,974 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:49,979 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:49,982 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:49,987 - INFO - FPS: 1.5, Frames: 0
+2025-06-20 23:01:50,067 - INFO - Faces detected
+2025-06-20 23:01:50,074 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,078 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,081 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,085 - INFO - FPS: 5.8, Frames: 0
+2025-06-20 23:01:50,158 - INFO - Faces detected
+2025-06-20 23:01:50,165 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,169 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,172 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,177 - INFO - FPS: 7.6, Frames: 0
+2025-06-20 23:01:50,267 - INFO - Faces detected
+2025-06-20 23:01:50,275 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,278 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,282 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,287 - INFO - FPS: 8.0, Frames: 0
+2025-06-20 23:01:50,368 - INFO - Faces detected
+2025-06-20 23:01:50,374 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,378 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,381 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,386 - INFO - FPS: 8.4, Frames: 0
+2025-06-20 23:01:50,455 - INFO - Faces detected
+2025-06-20 23:01:50,465 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,470 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,473 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,479 - INFO - FPS: 8.9, Frames: 0
+2025-06-20 23:01:50,567 - INFO - Faces detected
+2025-06-20 23:01:50,575 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,579 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,585 - INFO - FPS: 9.0, Frames: 0
+2025-06-20 23:01:50,664 - INFO - Faces detected
+2025-06-20 23:01:50,671 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,677 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,680 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,686 - INFO - FPS: 9.1, Frames: 0
+2025-06-20 23:01:50,780 - INFO - Faces detected
+2025-06-20 23:01:50,789 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,793 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,797 - INFO - FPS: 9.1, Frames: 0
+2025-06-20 23:01:50,865 - INFO - Faces detected
+2025-06-20 23:01:50,872 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,876 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,881 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:50,959 - INFO - Faces detected
+2025-06-20 23:01:50,968 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:50,972 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,976 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:50,980 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:51,072 - INFO - Faces detected
+2025-06-20 23:01:51,081 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,088 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,092 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,096 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:51,177 - INFO - Faces detected
+2025-06-20 23:01:51,184 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,190 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,193 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,196 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:51,275 - INFO - Faces detected
+2025-06-20 23:01:51,283 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,290 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,292 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,296 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:51,372 - INFO - Faces detected
+2025-06-20 23:01:51,379 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,385 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,390 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,394 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:51,503 - INFO - Faces detected
+2025-06-20 23:01:51,512 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,516 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,525 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:51,613 - INFO - Faces detected
+2025-06-20 23:01:51,619 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,625 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,630 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:51,730 - INFO - Faces detected
+2025-06-20 23:01:51,737 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,741 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,746 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:51,839 - INFO - Faces detected
+2025-06-20 23:01:51,846 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,850 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,856 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:51,949 - INFO - Faces detected
+2025-06-20 23:01:51,959 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:51,963 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:51,969 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:52,039 - INFO - Faces detected
+2025-06-20 23:01:52,050 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,054 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,060 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:52,146 - INFO - Faces detected
+2025-06-20 23:01:52,153 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,156 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,161 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:52,247 - INFO - Faces detected
+2025-06-20 23:01:52,256 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,260 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,265 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:52,361 - INFO - Faces detected
+2025-06-20 23:01:52,369 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,373 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,380 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:52,471 - INFO - Faces detected
+2025-06-20 23:01:52,480 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,484 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,489 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:52,587 - INFO - Faces detected
+2025-06-20 23:01:52,595 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,599 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,604 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:52,690 - INFO - Faces detected
+2025-06-20 23:01:52,698 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,701 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,706 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:52,771 - INFO - Faces detected
+2025-06-20 23:01:52,778 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,782 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,789 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:52,888 - INFO - Faces detected
+2025-06-20 23:01:52,894 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,899 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,904 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:52,977 - INFO - Faces detected
+2025-06-20 23:01:52,983 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:52,987 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:52,991 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:53,080 - INFO - Faces detected
+2025-06-20 23:01:53,088 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,092 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,098 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:53,178 - INFO - Faces detected
+2025-06-20 23:01:53,185 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,189 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,194 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:53,285 - INFO - Faces detected
+2025-06-20 23:01:53,294 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,296 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,301 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:53,382 - INFO - Faces detected
+2025-06-20 23:01:53,391 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,394 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,400 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:53,489 - INFO - Faces detected
+2025-06-20 23:01:53,498 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,502 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,506 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:53,573 - INFO - Faces detected
+2025-06-20 23:01:53,583 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,586 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,591 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:01:53,672 - INFO - Faces detected
+2025-06-20 23:01:53,679 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,682 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,687 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:01:53,776 - INFO - Faces detected
+2025-06-20 23:01:53,786 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,790 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,795 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:53,882 - INFO - Faces detected
+2025-06-20 23:01:53,891 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,896 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,900 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:53,974 - INFO - Faces detected
+2025-06-20 23:01:53,981 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:53,984 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:53,989 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:54,082 - INFO - Faces detected
+2025-06-20 23:01:54,090 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,094 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,099 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:54,181 - INFO - Faces detected
+2025-06-20 23:01:54,189 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,194 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,199 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:54,293 - INFO - Faces detected
+2025-06-20 23:01:54,301 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,304 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,309 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:01:54,386 - INFO - Faces detected
+2025-06-20 23:01:54,396 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,399 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,404 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:54,487 - INFO - Faces detected
+2025-06-20 23:01:54,494 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,499 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,504 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:54,592 - INFO - Faces detected
+2025-06-20 23:01:54,600 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,604 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,609 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:54,689 - INFO - Faces detected
+2025-06-20 23:01:54,697 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,700 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,705 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:54,774 - INFO - Faces detected
+2025-06-20 23:01:54,784 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,788 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,793 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:54,881 - INFO - Faces detected
+2025-06-20 23:01:54,890 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:54,894 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:54,899 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:54,985 - INFO - Faces detected
+2025-06-20 23:01:54,996 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,001 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,008 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:01:55,123 - INFO - Faces detected
+2025-06-20 23:01:55,132 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,137 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,144 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:55,244 - INFO - Faces detected
+2025-06-20 23:01:55,253 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,258 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,265 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:55,349 - INFO - Faces detected
+2025-06-20 23:01:55,358 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,360 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,364 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:55,438 - INFO - Faces detected
+2025-06-20 23:01:55,446 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,450 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,456 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:55,544 - INFO - Faces detected
+2025-06-20 23:01:55,552 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,557 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,561 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:55,648 - INFO - Faces detected
+2025-06-20 23:01:55,656 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,661 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,668 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:55,758 - INFO - Faces detected
+2025-06-20 23:01:55,765 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,769 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,776 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:55,867 - INFO - Faces detected
+2025-06-20 23:01:55,876 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,880 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,885 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:55,980 - INFO - Faces detected
+2025-06-20 23:01:55,989 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:55,992 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:55,998 - INFO - FPS: 9.3, Frames: 0
+2025-06-20 23:01:56,091 - INFO - Faces detected
+2025-06-20 23:01:56,098 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,101 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,106 - INFO - FPS: 9.3, Frames: 0
+2025-06-20 23:01:56,194 - INFO - Faces detected
+2025-06-20 23:01:56,203 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,207 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,211 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:56,301 - INFO - Faces detected
+2025-06-20 23:01:56,308 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,313 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,319 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:56,403 - INFO - Faces detected
+2025-06-20 23:01:56,412 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,416 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,421 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:56,528 - INFO - Faces detected
+2025-06-20 23:01:56,535 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,538 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,544 - INFO - FPS: 9.3, Frames: 0
+2025-06-20 23:01:56,631 - INFO - Faces detected
+2025-06-20 23:01:56,638 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,641 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,646 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:56,715 - INFO - Faces detected
+2025-06-20 23:01:56,722 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,725 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,729 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:56,815 - INFO - Faces detected
+2025-06-20 23:01:56,823 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,827 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,832 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:56,927 - INFO - Faces detected
+2025-06-20 23:01:56,935 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:56,938 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:56,944 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:57,037 - INFO - Faces detected
+2025-06-20 23:01:57,044 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,049 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,055 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:57,147 - INFO - Faces detected
+2025-06-20 23:01:57,157 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,163 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,167 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,173 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:57,256 - INFO - Faces detected
+2025-06-20 23:01:57,265 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,270 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,275 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,280 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:57,366 - INFO - Faces detected
+2025-06-20 23:01:57,374 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,378 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,384 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:57,444 - INFO - Faces detected
+2025-06-20 23:01:57,457 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,461 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,467 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:57,557 - INFO - Faces detected
+2025-06-20 23:01:57,567 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,572 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,576 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,582 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:57,668 - INFO - Faces detected
+2025-06-20 23:01:57,677 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,681 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,685 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:01:57,779 - INFO - Faces detected
+2025-06-20 23:01:57,790 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,795 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,798 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,802 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:57,907 - INFO - Faces detected
+2025-06-20 23:01:57,914 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:57,919 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,922 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:57,926 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:57,987 - INFO - Faces detected
+2025-06-20 23:01:57,997 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,004 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,008 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,012 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:58,103 - INFO - Faces detected
+2025-06-20 23:01:58,110 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,113 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,117 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:58,205 - INFO - Faces detected
+2025-06-20 23:01:58,215 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,220 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,227 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:58,330 - INFO - Faces detected
+2025-06-20 23:01:58,340 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,344 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,348 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,352 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:58,442 - INFO - Faces detected
+2025-06-20 23:01:58,450 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,457 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,460 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,465 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:58,555 - INFO - Faces detected
+2025-06-20 23:01:58,564 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,570 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,573 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,577 - INFO - FPS: 9.2, Frames: 0
+2025-06-20 23:01:58,652 - INFO - Faces detected
+2025-06-20 23:01:58,660 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,666 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,670 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,676 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:58,773 - INFO - Faces detected
+2025-06-20 23:01:58,781 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,784 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,790 - INFO - FPS: 9.3, Frames: 0
+2025-06-20 23:01:58,864 - INFO - Faces detected
+2025-06-20 23:01:58,873 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,877 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,883 - INFO - FPS: 9.5, Frames: 0
+2025-06-20 23:01:58,969 - INFO - Faces detected
+2025-06-20 23:01:58,975 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:58,979 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:58,988 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:01:59,078 - INFO - Faces detected
+2025-06-20 23:01:59,086 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,090 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,094 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:59,195 - INFO - Faces detected
+2025-06-20 23:01:59,203 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,208 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,214 - INFO - FPS: 9.3, Frames: 0
+2025-06-20 23:01:59,300 - INFO - Faces detected
+2025-06-20 23:01:59,308 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,311 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,315 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:01:59,396 - INFO - Faces detected
+2025-06-20 23:01:59,403 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,406 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,410 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:59,507 - INFO - Faces detected
+2025-06-20 23:01:59,516 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,519 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,525 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:01:59,601 - INFO - Faces detected
+2025-06-20 23:01:59,610 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,613 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,619 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:59,702 - INFO - Faces detected
+2025-06-20 23:01:59,709 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,713 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,718 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:01:59,782 - INFO - Faces detected
+2025-06-20 23:01:59,792 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,795 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,800 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:01:59,866 - INFO - Faces detected
+2025-06-20 23:01:59,875 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,878 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,883 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:01:59,974 - INFO - Faces detected
+2025-06-20 23:01:59,982 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:01:59,986 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:01:59,991 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:02:00,069 - INFO - Faces detected
+2025-06-20 23:02:00,076 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,081 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,086 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:02:00,176 - INFO - Faces detected
+2025-06-20 23:02:00,184 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,189 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,196 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:02:00,273 - INFO - Faces detected
+2025-06-20 23:02:00,280 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,284 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,289 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:02:00,378 - INFO - Faces detected
+2025-06-20 23:02:00,385 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,388 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,392 - INFO - FPS: 10.5, Frames: 0
+2025-06-20 23:02:00,455 - INFO - Faces detected
+2025-06-20 23:02:00,464 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,467 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,473 - INFO - FPS: 10.8, Frames: 0
+2025-06-20 23:02:00,564 - INFO - Faces detected
+2025-06-20 23:02:00,572 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,576 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,582 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:02:00,659 - INFO - Faces detected
+2025-06-20 23:02:00,669 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,674 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,679 - INFO - FPS: 10.7, Frames: 0
+2025-06-20 23:02:00,765 - INFO - Faces detected
+2025-06-20 23:02:00,773 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,777 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,783 - INFO - FPS: 10.4, Frames: 0
+2025-06-20 23:02:00,883 - INFO - Faces detected
+2025-06-20 23:02:00,890 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:00,893 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:00,899 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:00,993 - INFO - Faces detected
+2025-06-20 23:02:01,000 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,004 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,008 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:01,091 - INFO - Faces detected
+2025-06-20 23:02:01,099 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,103 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,108 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:02:01,182 - INFO - Faces detected
+2025-06-20 23:02:01,190 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,197 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,202 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:02:01,298 - INFO - Faces detected
+2025-06-20 23:02:01,305 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,310 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,316 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:02:01,404 - INFO - Faces detected
+2025-06-20 23:02:01,410 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,414 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,420 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:02:01,515 - INFO - Faces detected
+2025-06-20 23:02:01,522 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,526 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,532 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:01,627 - INFO - Faces detected
+2025-06-20 23:02:01,635 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,641 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,647 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:01,739 - INFO - Faces detected
+2025-06-20 23:02:01,748 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,751 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,758 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:02:01,844 - INFO - Faces detected
+2025-06-20 23:02:01,850 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,855 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,861 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:02:01,944 - INFO - Faces detected
+2025-06-20 23:02:01,954 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:01,959 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:01,963 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:02,051 - INFO - Faces detected
+2025-06-20 23:02:02,059 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,063 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,068 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:02,143 - INFO - Faces detected
+2025-06-20 23:02:02,152 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,156 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,161 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:02:02,247 - INFO - Faces detected
+2025-06-20 23:02:02,256 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,260 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,265 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:02,337 - INFO - Faces detected
+2025-06-20 23:02:02,344 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,347 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,351 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:02:02,440 - INFO - Faces detected
+2025-06-20 23:02:02,446 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,449 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,455 - INFO - FPS: 9.9, Frames: 0
+2025-06-20 23:02:02,529 - INFO - Faces detected
+2025-06-20 23:02:02,535 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,541 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,547 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:02,641 - INFO - Faces detected
+2025-06-20 23:02:02,649 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,652 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,658 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:02,747 - INFO - Faces detected
+2025-06-20 23:02:02,755 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,758 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,763 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:02:02,846 - INFO - Faces detected
+2025-06-20 23:02:02,855 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,859 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,863 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:02:02,938 - INFO - Faces detected
+2025-06-20 23:02:02,947 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:02,950 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:02,958 - INFO - FPS: 10.3, Frames: 0
+2025-06-20 23:02:03,050 - INFO - Faces detected
+2025-06-20 23:02:03,056 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,060 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,061 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,067 - INFO - FPS: 10.2, Frames: 0
+2025-06-20 23:02:03,159 - INFO - Faces detected
+2025-06-20 23:02:03,165 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,170 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,173 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,176 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:03,250 - INFO - Faces detected
+2025-06-20 23:02:03,259 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,264 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,267 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,273 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:03,340 - INFO - Faces detected
+2025-06-20 23:02:03,350 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,356 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,359 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,363 - INFO - FPS: 10.1, Frames: 0
+2025-06-20 23:02:03,450 - INFO - Faces detected
+2025-06-20 23:02:03,457 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,461 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,464 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,471 - INFO - FPS: 10.0, Frames: 0
+2025-06-20 23:02:03,567 - INFO - Faces detected
+2025-06-20 23:02:03,575 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,579 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,582 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,586 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:02:03,688 - INFO - Faces detected
+2025-06-20 23:02:03,695 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,698 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,703 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:02:03,803 - INFO - Faces detected
+2025-06-20 23:02:03,811 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,815 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,820 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:02:03,908 - INFO - Faces detected
+2025-06-20 23:02:03,914 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:03,918 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:03,923 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:04,006 - INFO - Faces detected
+2025-06-20 23:02:04,013 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:04,016 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:04,021 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:04,101 - INFO - Faces detected
+2025-06-20 23:02:04,108 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:04,111 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:04,115 - INFO - FPS: 9.7, Frames: 0
+2025-06-20 23:02:04,198 - INFO - Faces detected
+2025-06-20 23:02:04,206 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:04,209 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:04,215 - INFO - FPS: 9.8, Frames: 0
+2025-06-20 23:02:04,315 - INFO - Faces detected
+2025-06-20 23:02:04,324 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:04,329 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:04,334 - INFO - FPS: 9.6, Frames: 0
+2025-06-20 23:02:04,425 - INFO - Faces detected
+2025-06-20 23:02:04,432 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:04,435 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:04,440 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:02:04,535 - INFO - Faces detected
+2025-06-20 23:02:04,543 - ERROR - 3D mesh error: 'NormalizedLandmarkList' object is not subscriptable
+2025-06-20 23:02:04,546 - ERROR - Model inference failed: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+2025-06-20 23:02:04,550 - INFO - FPS: 9.4, Frames: 0
+2025-06-20 23:02:04,609 - INFO - Using device: cuda:0
+2025-06-20 23:02:05,518 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:02:05,570 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:02:05,581 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:02:05,583 - INFO - Adaptive training enabled
+2025-06-20 23:02:40,649 - INFO - Using device: cuda:0
+2025-06-20 23:02:40,893 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:02:40,916 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:02:40,920 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:03:09,204 - INFO - Using device: cuda:0
+2025-06-20 23:03:10,228 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:03:10,278 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:03:10,286 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:03:14,600 - INFO - Camera initialized
+2025-06-20 23:03:14,633 - INFO - Face cascade classifier loaded
+2025-06-20 23:03:19,226 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:03:22,241 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:03:28,102 - INFO - Using device: cuda:0
+2025-06-20 23:03:28,918 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:03:28,974 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:03:28,982 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:03:30,696 - INFO - Using device: cuda:0
+2025-06-20 23:03:30,949 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:03:30,965 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:03:30,968 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:03:30,969 - INFO - Adaptive training enabled
+2025-06-20 23:03:32,872 - INFO - Using device: cuda:0
+2025-06-20 23:03:33,291 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:03:33,314 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:03:33,317 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:03:33,319 - INFO - Adaptive training enabled
+2025-06-20 23:03:38,249 - INFO - Camera initialized
+2025-06-20 23:03:38,285 - INFO - Face cascade classifier loaded
+2025-06-20 23:03:47,335 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Boredom\20250620_230347.jpg
+2025-06-20 23:03:56,554 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:03:56,565 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_230356.jpg
+2025-06-20 23:04:15,903 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_230415.jpg
+2025-06-20 23:04:15,907 - INFO - Captured 3 frames, stopping camera
+2025-06-20 23:04:16,640 - INFO - Camera released
+2025-06-20 23:04:24,240 - INFO - Using device: cuda:0
+2025-06-20 23:04:24,819 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:04:24,873 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:04:24,883 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:04:24,888 - INFO - Adaptive training enabled
+2025-06-20 23:05:12,430 - INFO - Using device: cuda:0
+2025-06-20 23:05:12,833 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:05:12,848 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:05:12,852 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:05:16,079 - INFO - Using device: cuda:0
+2025-06-20 23:05:16,552 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:05:16,577 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:05:16,581 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:05:21,006 - INFO - Camera initialized
+2025-06-20 23:05:21,039 - INFO - Face cascade classifier loaded
+2025-06-20 23:05:21,054 - INFO - Camera released
+2025-06-20 23:05:52,963 - INFO - Using device: cuda:0
+2025-06-20 23:05:53,166 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:05:53,179 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:05:53,182 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:05:56,498 - INFO - Camera initialized
+2025-06-20 23:05:56,535 - INFO - Face cascade classifier loaded
+2025-06-20 23:05:56,550 - INFO - Camera released
+2025-06-20 23:06:00,584 - INFO - Using device: cuda:0
+2025-06-20 23:06:01,141 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:06:01,169 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:06:01,173 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:06:03,298 - INFO - Using device: cuda:0
+2025-06-20 23:06:03,652 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:06:03,666 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:06:03,668 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:06:10,489 - INFO - Camera initialized
+2025-06-20 23:06:10,525 - INFO - Face cascade classifier loaded
+2025-06-20 23:06:11,314 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-20 23:06:11,411 - INFO - Emotion transition: Engaged -> Frustration
+2025-06-20 23:06:11,496 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-20 23:06:11,613 - INFO - Emotion transition: Engaged -> Frustration
+2025-06-20 23:06:12,947 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-20 23:06:26,685 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:06:28,196 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:06:29,638 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:06:30,664 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:06:42,886 - INFO - Using device: cuda:0
+2025-06-20 23:06:43,783 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:06:43,836 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:06:43,850 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:09:50,071 - INFO - Using device: cuda:0
+2025-06-20 23:09:50,340 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:09:50,362 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:09:50,365 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:09:54,745 - INFO - Using device: cuda:0
+2025-06-20 23:09:55,188 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:09:55,204 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:09:55,207 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:09:59,615 - INFO - Camera initialized
+2025-06-20 23:09:59,654 - INFO - Face cascade classifier loaded
+2025-06-20 23:10:00,441 - INFO - Emotion transition: Engaged -> Frustration
+2025-06-20 23:10:01,048 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-20 23:10:30,014 - INFO - Using device: cuda:0
+2025-06-20 23:10:30,886 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:10:30,925 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:10:30,935 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:13:46,089 - INFO - Using device: cuda:0
+2025-06-20 23:13:46,520 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:13:46,564 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:13:46,572 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:13:50,786 - INFO - Camera initialized
+2025-06-20 23:13:50,818 - INFO - Face cascade classifier loaded
+2025-06-20 23:14:40,542 - INFO - Emotion transition: Engaged -> Frustration
+2025-06-20 23:14:41,032 - INFO - Using device: cpu
+2025-06-20 23:14:41,851 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:14:41,873 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:14:41,876 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:14:44,733 - INFO - Using device: cpu
+2025-06-20 23:14:45,048 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:14:45,081 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:14:45,087 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:14:48,957 - INFO - Camera initialized
+2025-06-20 23:14:48,990 - INFO - Face cascade classifier loaded
+2025-06-20 23:14:49,796 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:14:50,150 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:14:57,494 - INFO - Using device: cuda:0
+2025-06-20 23:14:58,231 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:14:58,261 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:14:58,267 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:15:01,024 - INFO - Using device: cuda:0
+2025-06-20 23:15:01,388 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:15:01,403 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:15:01,406 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:15:05,668 - INFO - Camera initialized
+2025-06-20 23:15:05,703 - INFO - Face cascade classifier loaded
+2025-06-20 23:15:44,251 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:15:44,720 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:15:56,849 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:15:57,898 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:15:59,209 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:15:59,766 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:16:00,777 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:16:04,120 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:16:05,593 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:16:07,415 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:16:07,875 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:16:08,474 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:16:14,596 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:16:17,685 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:16:36,887 - INFO - Using device: cuda:0
+2025-06-20 23:16:37,243 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:16:37,267 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:16:37,269 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:16:39,414 - INFO - Using device: cuda:0
+2025-06-20 23:16:39,925 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:16:40,005 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:16:40,015 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:16:43,952 - INFO - Camera initialized
+2025-06-20 23:16:43,991 - INFO - Face cascade classifier loaded
+2025-06-20 23:16:49,357 - INFO - Using device: cuda:0
+2025-06-20 23:16:50,164 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:16:50,201 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:16:50,206 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:26:52,996 - INFO - Using device: cuda:0
+2025-06-20 23:26:53,231 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:26:53,249 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:26:53,251 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:27:27,194 - INFO - Using device: cuda:0
+2025-06-20 23:27:27,574 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:27:27,600 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:27:27,605 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:27:34,611 - WARNING - From D:\BINs\friends\FER\myenv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-20 23:27:35,668 - INFO - Using device: cuda:0
+2025-06-20 23:27:36,226 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:27:36,276 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:27:36,284 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:27:42,449 - INFO - Camera initialized
+2025-06-20 23:27:42,485 - INFO - Face cascade classifier loaded
+2025-06-20 23:27:46,547 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-20 23:27:50,077 - INFO - Emotion transition: Engaged -> Frustration
+2025-06-20 23:28:00,202 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-20 23:28:10,965 - INFO - Using device: cuda:0
+2025-06-20 23:28:11,669 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:28:11,710 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:28:11,717 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:28:11,720 - INFO - Adaptive training enabled
+2025-06-20 23:28:24,843 - INFO - Using device: cuda:0
+2025-06-20 23:28:25,298 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:28:25,343 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:28:25,351 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:28:25,355 - INFO - Adaptive training enabled
+2025-06-20 23:28:29,729 - INFO - Camera initialized
+2025-06-20 23:28:29,766 - INFO - Face cascade classifier loaded
+2025-06-20 23:28:48,742 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_232848.jpg
+2025-06-20 23:28:56,430 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:28:56,439 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Boredom\20250620_232856.jpg
+2025-06-20 23:29:20,877 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:29:20,883 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250620_232920.jpg
+2025-06-20 23:29:20,885 - INFO - Captured 3 frames, stopping camera
+2025-06-20 23:29:21,629 - INFO - Camera released
+2025-06-20 23:30:12,503 - INFO - Using device: cuda:0
+2025-06-20 23:30:13,428 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:30:13,448 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:30:13,451 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:30:13,452 - INFO - Adaptive training enabled
+2025-06-20 23:31:45,620 - INFO - Using device: cuda:0
+2025-06-20 23:31:45,865 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:31:45,889 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:31:45,892 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:31:53,166 - INFO - Using device: cuda:0
+2025-06-20 23:31:53,397 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:31:53,416 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:31:53,418 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:31:57,930 - INFO - Camera initialized
+2025-06-20 23:31:57,970 - INFO - Face cascade classifier loaded
+2025-06-20 23:32:05,937 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:32:06,434 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:32:07,828 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-20 23:32:08,118 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-20 23:32:15,459 - INFO - Using device: cuda:0
+2025-06-20 23:32:16,111 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:32:16,126 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:32:16,128 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:33:26,028 - INFO - Using device: cuda:0
+2025-06-20 23:33:26,466 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:33:26,491 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:33:26,494 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-20 23:33:31,113 - WARNING - From D:\BINs\friends\FER\myenv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-20 23:33:54,552 - INFO - Using device: cuda:0
+2025-06-20 23:33:54,829 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-20 23:33:54,849 - INFO - MediaPipe Face Mesh initialized
+2025-06-20 23:33:54,852 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:12:27,882 - INFO - Using device: cuda:0
+2025-06-21 09:12:28,134 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:12:28,156 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:12:28,158 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:13:15,126 - INFO - Using device: cuda:0
+2025-06-21 09:13:15,440 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:13:15,460 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:13:15,463 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:13:19,408 - WARNING - From D:\BINs\friends\FER\myenv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-21 09:13:28,527 - INFO - Using device: cuda:0
+2025-06-21 09:13:28,744 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:13:28,759 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:13:28,762 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:13:36,987 - INFO - Using device: cuda:0
+2025-06-21 09:13:37,184 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:13:37,198 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:13:37,200 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:13:40,803 - INFO - Camera initialized
+2025-06-21 09:13:40,841 - INFO - Face cascade classifier loaded
+2025-06-21 09:13:52,825 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:18,219 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:22,394 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:24,248 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:25,279 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:30,030 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:30,763 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:32,936 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:33,913 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:36,770 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:37,116 - INFO - Emotion transition: Boredom -> Frustration
+2025-06-21 09:14:37,246 - INFO - Emotion transition: Frustration -> Engaged
+2025-06-21 09:14:38,425 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:48,947 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:50,547 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:50,809 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:14:51,587 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:14:53,951 - INFO - Using device: cuda:0
+2025-06-21 09:14:54,533 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:14:54,548 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:14:54,550 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:14:57,844 - INFO - Using device: cuda:0
+2025-06-21 09:14:58,024 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:14:58,038 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:14:58,041 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:14:58,043 - INFO - Adaptive training enabled
+2025-06-21 09:15:16,924 - INFO - Using device: cuda:0
+2025-06-21 09:15:17,111 - INFO - Model loaded successfully from D:\BINs\friends\FER\models\fer_model.pth
+2025-06-21 09:15:17,124 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 09:15:17,127 - INFO - Data directories created at D:\BINs\friends\FER\data\pictures
+2025-06-21 09:15:17,128 - INFO - Adaptive training enabled
+2025-06-21 09:15:20,157 - INFO - Camera initialized
+2025-06-21 09:15:20,189 - INFO - Face cascade classifier loaded
+2025-06-21 09:15:27,785 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250621_091527.jpg
+2025-06-21 09:15:27,844 - INFO - Emotion transition: Engaged -> Boredom
+2025-06-21 09:15:27,850 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Boredom\20250621_091527.jpg
+2025-06-21 09:15:37,045 - INFO - Emotion transition: Boredom -> Engaged
+2025-06-21 09:15:37,050 - INFO - Frame saved: D:\BINs\friends\FER\data\pictures\Engaged\20250621_091537.jpg
+2025-06-21 09:15:37,052 - INFO - Captured 3 frames, stopping camera
+2025-06-21 09:15:37,714 - INFO - Camera released
+2025-06-21 10:27:31,497 - ERROR - Model loading failed: File format not supported: filepath=D:\BINs\friends\FER\models\fer_model.pth. Keras 3 only supports V3 `.keras` files and legacy H5 format files (`.h5` extension). Note that the legacy SavedModel format is not supported by `load_model()` in Keras 3. In order to reload a TensorFlow SavedModel as an inference-only layer in Keras 3, use `keras.layers.TFSMLayer(D:\BINs\friends\FER\models\fer_model.pth, call_endpoint='serving_default')` (note that your `call_endpoint` might have a different name).
+2025-06-21 10:27:31,519 - INFO - MediaPipe Face Mesh initialized
+2025-06-21 10:48:38,585 - ERROR - Model loading failed: File format not supported: filepath=D:\BINs\friends\FER\models\fer_model.pth. Keras 3 only supports V3 `.keras` files and legacy H5 format files (`.h5` extension). Note that the legacy SavedModel format is not supported by `load_model()` in Keras 3. In order to reload a TensorFlow SavedModel as an inference-only layer in Keras 3, use `keras.layers.TFSMLayer(D:\BINs\friends\FER\models\fer_model.pth, call_endpoint='serving_default')` (note that your `call_endpoint` might have a different name).
+2025-06-21 10:48:38,922 - WARNING - From D:\BINs\friends\FER\myenv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-21 10:49:40,426 - ERROR - Model loading failed: File format not supported: filepath=D:\BINs\friends\FER\models\fer_model.pth. Keras 3 only supports V3 `.keras` files and legacy H5 format files (`.h5` extension). Note that the legacy SavedModel format is not supported by `load_model()` in Keras 3. In order to reload a TensorFlow SavedModel as an inference-only layer in Keras 3, use `keras.layers.TFSMLayer(D:\BINs\friends\FER\models\fer_model.pth, call_endpoint='serving_default')` (note that your `call_endpoint` might have a different name).
+2025-06-21 11:10:03,425 - ERROR - Model loading failed: File format not supported: filepath=fer_model.pth. Keras 3 only supports V3 `.keras` files and legacy H5 format files (`.h5` extension). Note that the legacy SavedModel format is not supported by `load_model()` in Keras 3. In order to reload a TensorFlow SavedModel as an inference-only layer in Keras 3, use `keras.layers.TFSMLayer(fer_model.pth, call_endpoint='serving_default')` (note that your `call_endpoint` might have a different name).
+2025-06-21 11:10:55,454 - ERROR - Model loading failed: File format not supported: filepath=D:\BINs\friends\FER\fer_model.pth. Keras 3 only supports V3 `.keras` files and legacy H5 format files (`.h5` extension). Note that the legacy SavedModel format is not supported by `load_model()` in Keras 3. In order to reload a TensorFlow SavedModel as an inference-only layer in Keras 3, use `keras.layers.TFSMLayer(D:\BINs\friends\FER\fer_model.pth, call_endpoint='serving_default')` (note that your `call_endpoint` might have a different name).
+2025-06-21 11:44:12,059 - ERROR - Model loading failed: File format not supported: filepath=D:\BINs\friends\FER\fer_model.pth. Keras 3 only supports V3 `.keras` files and legacy H5 format files (`.h5` extension). Note that the legacy SavedModel format is not supported by `load_model()` in Keras 3. In order to reload a TensorFlow SavedModel as an inference-only layer in Keras 3, use `keras.layers.TFSMLayer(D:\BINs\friends\FER\fer_model.pth, call_endpoint='serving_default')` (note that your `call_endpoint` might have a different name).

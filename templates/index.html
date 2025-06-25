@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emotion Detection</title>
+</head>
+<body>
+    <h1>Upload an Image</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*">
+        <input type="submit" value="Upload">
+    </form>
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+    {% if emotions %}
+        <h2>Detected Emotions:</h2>
+        <ul>
+            {% for emotion in emotions %}
+                <li>{{ emotion }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No emotions detected.</p>
+    {% endif %}
+    {% if image_url %}
+        <h2>Annotated Image:</h2>
+        <img src="{{ image_url }}" alt="Annotated Image" style="max-width: 500px;">
+    {% endif %}
+</body>
+</html>
